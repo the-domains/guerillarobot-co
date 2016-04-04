@@ -1,6 +1,6 @@
 name: Guerillarobot.com
 favicon: null
-layout_spectrum: 0.42909
+layout_spectrum: 0.20839
 typography_spectrum: 0.21372
 collections:
   - index:
@@ -34,7 +34,7 @@ color:
     - '#636363'
     - '#9d9d9d'
     - '#45bdd6'
-  brandStrength: 0.125
+  brandStrength: 0.1875
   lightness: 0
   saturation: 0.625
   rhythmicContrast: 0.5
