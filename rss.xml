@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Guerillarobot.co]]></title>
         <description><![CDATA[Guerillarobot.co]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/guerillarobot-co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 16:01:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Apr 2016 16:17:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/guerillarobot-co/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Army Wants You to Make Its Soldiers Pocket-Sized Drones]]></title>
+            <description><![CDATA[<article><h1>The Army Wants You to Make Its Soldiers Pocket-Sized Drones</h1><p>Drones first glided into the public imagination in the early 2000s when the US Air Force and the CIA started using school bus-sized Predator and Reaper unmanned aerial vehicles for surveillance and airstrikes in the Middle East.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26e935d7c8cec06a46c3de98bb89b9965547586b.jpg"></article>]]></description>
+            <link>http://www.wired.com/2016/04/us-army-wants-make-tiny-drones-soldiers/</link>
+            <guid isPermaLink="false">2c508815-1216-44e7-a27f-4173cfd85208</guid>
+            <pubDate>Mon, 04 Apr 2016 16:17:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dirty little secrets: Inside the 'Ashley Madison' of the ultra-rich and ultra-powerful]]></title>
             <description><![CDATA[<article><h1>Dirty little secrets: Inside the 'Ashley Madison' of the ultra-rich and ultra-powerful</h1><p>A new trove bigger than Wikileaks exposes the hidden underworld of drug dealers, sex traffickers, and tax cheats. Fusion takes you inside.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bee366e8acc505b9fa20abca1fa4a4dcdf0a0dc4.jpg"></article>]]></description>
