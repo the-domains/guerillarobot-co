@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-08T14:13:27.069Z'
-dateModified: '2016-04-08T14:12:53.558Z'
+datePublished: '2016-04-08T18:22:28.177Z'
+dateModified: '2016-04-08T18:22:27.820Z'
 title: Guerillarobot.com
 author: []
 authors: []
@@ -22,4 +22,4 @@ url: guerillarobotcom/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/02d834f1-f9b7-44f2-8e44-6908b13b7ef5.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/99dfdf8f-ace2-48dd-972a-4b6ed39c1ade.jpg)
