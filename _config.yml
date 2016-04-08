@@ -1,8 +1,7 @@
+name: Guerillarobot.com
+favicon: null
+layout_spectrum: 0.20839
 typography_spectrum: 0.21372
-opengraph:
-  image: null
-  type: null
-  appId: null
 collections:
   - index:
       path: /
@@ -15,27 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.20839
 title: Guerillarobot.com
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
-color:
-  saturation: 0.625
-  brandStrength: 0.1875
-  rhythmicContrast: 0.5
-  brandColors:
-    - '#000000'
-    - '#fefdfb'
-    - '#636363'
-    - '#9d9d9d'
-    - '#45bdd6'
-  lightness: 0
-purpose: []
-favicon: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-name: Guerillarobot.com
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#000000'
+    - '#525252'
+    - '#7d7d7d'
+    - '#d7d7d7'
+    - '#f5f5f5'
+  brandStrength: 0.1875
+  lightness: 0
+  saturation: 0.625
+  rhythmicContrast: 0.5
+purpose: []
