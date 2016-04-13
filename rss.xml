@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Guerillarobot.com]]></title>
         <description><![CDATA[Guerillarobot.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://guerillarobot.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 20:19:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 20:41:04 GMT</lastBuildDate>
+        <atom:link href="http://guerillarobot.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Army Wants You to Make Its Soldiers Pocket-Sized Drones]]></title>
+            <description><![CDATA[<article><h1>The Army Wants You to Make Its Soldiers Pocket-Sized Drones</h1><p>Drones first glided into the public imagination in the early 2000s when the US Air Force and the CIA started using school bus-sized Predator and Reaper unmanned aerial vehicles for surveillance and airstrikes in the Middle East.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26e935d7c8cec06a46c3de98bb89b9965547586b.jpg"></article>]]></description>
+            <link>http://www.wired.com/2016/04/us-army-wants-make-tiny-drones-soldiers/</link>
+            <guid isPermaLink="false">2c508815-1216-44e7-a27f-4173cfd85208</guid>
+            <pubDate>Wed, 13 Apr 2016 20:41:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IBM Wants to Implant Fake Brains in Real Brains to Prevent Seizures]]></title>
             <description><![CDATA[<article><h1>IBM Wants to Implant Fake Brains in Real Brains to Prevent Seizures</h1><p>Talk about neural networking. In Melbourne, Australia, Stefan Harrer is running an artificial software brain atop an artificial hardware brain in an effort to analyze a brain that isn't artificial at all. Ultimately, he and his colleagues envision merging these three brains together so that the artificial can augment the real.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d59c45ed125f4bca12b8800f6bf894903e7c2240.jpg"></article>]]></description>
