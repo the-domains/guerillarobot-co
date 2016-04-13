@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Guerillarobot.com]]></title>
+        <description><![CDATA[Guerillarobot.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Apr 2016 23:59:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Darpa's Developing Tiny Drones That Swarm to and From Motherships]]></title>
+            <description><![CDATA[<article><h1>Darpa's Developing Tiny Drones That Swarm to and From Motherships</h1><p>The US military apparently never tires of thinking up capability gaps, and that means we may soon see fleets of small drones dropping out of bombers, then later being yanked out of the sky by cargo planes. Cartoonish as it may sound-as is the case with so many deadly-serious but still far-out military concepts-it makes a lot of sense.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f985e8051c6d6dd50db2c937ab2bf507304116c0.jpg"></article>]]></description>
+            <link>http://www.wired.com/2016/04/darpas-developing-tiny-drones-swarm-motherships/</link>
+            <guid isPermaLink="false">d56ad302-c57e-480a-8a62-3de9074e1eb4</guid>
+            <pubDate>Wed, 13 Apr 2016 23:59:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
