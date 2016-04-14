@@ -5,9 +5,9 @@ author:
     avatar: {}
 related: []
 publisher:
+  favicon: 'http://www.infowars.com/favicon.ico'
   url: 'http://www.infowars.com'
   name: Infowars
-  favicon: 'http://www.infowars.com/favicon.ico'
   domain: www.infowars.com
 keywords:
   - social
@@ -25,10 +25,11 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.infowars.com/sjws-build-new-database-to-shame-people-for-insulting-online-comments/'
 title: Social Autopsy spells the End of online Privacy or Anonymity in the name of Cyber-bullying.
-datePublished: '2016-04-14T14:24:46.048Z'
-dateModified: '2016-04-14T14:24:12.228Z'
+datePublished: '2016-04-14T14:25:58.323Z'
+dateModified: '2016-04-14T14:25:51.278Z'
 sourcePath: _posts/2016-04-14-social-autopsy-spells-the-end-of-online-privacy-or-anonymity.md
 published: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
