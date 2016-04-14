@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Guerillarobot.com]]></title>
         <description><![CDATA[Guerillarobot.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://guerillarobot.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 23:59:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Apr 2016 00:08:53 GMT</lastBuildDate>
+        <atom:link href="http://guerillarobot.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Brain Seizures ]]></title>
+            <description><![CDATA[<article><h1>Brain Seizures </h1><p>Talk about neural networking. In Melbourne, Australia, Stefan Harrer is running an artificial software brain atop an artificial hardware brain in an effort to analyze a brain that isn't artificial at all. Ultimately, he and his colleagues envision merging these three brains together so that the artificial can augment the real.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d59c45ed125f4bca12b8800f6bf894903e7c2240.jpg"></article>]]></description>
+            <link>http://www.wired.com/2016/04/ibm-wants-implant-fake-brains-real-brains-prevent-seizures/?mbid=social_twitter</link>
+            <guid isPermaLink="false">4afbe339-77ec-4075-a4fd-8c8a0e1ffa15</guid>
+            <pubDate>Thu, 14 Apr 2016 00:08:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Darpa's Developing Tiny Drones That Swarm to and From Motherships]]></title>
             <description><![CDATA[<article><h1>Darpa's Developing Tiny Drones That Swarm to and From Motherships</h1><p>The US military apparently never tires of thinking up capability gaps, and that means we may soon see fleets of small drones dropping out of bombers, then later being yanked out of the sky by cargo planes. Cartoonish as it may sound-as is the case with so many deadly-serious but still far-out military concepts-it makes a lot of sense.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f985e8051c6d6dd50db2c937ab2bf507304116c0.jpg"></article>]]></description>
