@@ -1,7 +1,7 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -16,20 +16,20 @@ keywords:
   - swiss
   - offshore
 description: 'A new trove bigger than Wikileaks exposes the hidden underworld of drug dealers, sex traffickers, and tax cheats. Fusion takes you inside.'
-datePublished: '2016-04-14T09:26:52.624Z'
-dateModified: '2016-04-14T09:26:10.322Z'
+datePublished: '2016-04-14T09:39:42.527Z'
+dateModified: '2016-04-14T09:31:42.498Z'
 author: []
 related: []
 app_links: []
 title: The Panama Papers
+sourcePath: _posts/2016-04-14-the-panama-papers.md
+published: true
 authors: []
 publisher:
   name: Fusion
   domain: interactive.fusion.net
   url: 'http://interactive.fusion.net'
   favicon: 'http://interactive.fusion.net/favicon.ico'
-sourcePath: _posts/2016-04-14-the-panama-papers.md
-published: true
 url: the-panama-papers/index.html
 _context: 'http://schema.org'
 _type: MediaObject
