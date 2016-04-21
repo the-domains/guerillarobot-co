@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.bbc.com/news/world-us-canada-36106778'
 title: Singer Prince dies suddenly at 57 - BBC News
-datePublished: '2016-04-21T17:45:07.602Z'
-dateModified: '2016-04-21T17:39:28.591Z'
+datePublished: '2016-04-21T23:09:06.843Z'
+dateModified: '2016-04-21T23:08:36.819Z'
 sourcePath: _posts/2016-04-21-singer-prince-dies-suddenly-at-57-bbc-news.md
 published: true
 inFeed: true
