@@ -4,8 +4,15 @@
         <description><![CDATA[Guerillarobot.com]]></description>
         <link>http://guerillarobot.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 01:30:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 16:48:53 GMT</lastBuildDate>
         <atom:link href="http://guerillarobot.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Netflix Just Made It Way Easier To Stream Shows On the Go]]></title>
+            <description><![CDATA[<article><h1>Netflix Just Made It Way Easier To Stream Shows On the Go</h1><p>Streaming Netflix over a cellular connection has always felt like a sketchy proposition. You know you're burning data, but you just have to watch one more Kimmy Schmidt. Well, Netflix just rolled out a feature that means you may have to worry less.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4c414de594fb5b91c18da658adac3335033b56b.jpg"></article>]]></description>
+            <link>http://www.wired.com/2016/05/netflix-just-made-way-easier-stream-shows-go/</link>
+            <guid isPermaLink="false">a15261eb-c1aa-46df-a015-e11ecc6f2a03</guid>
+            <pubDate>Fri, 06 May 2016 16:48:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Google Patents Device You Inject Into Your Eyeball]]></title>
             <description><![CDATA[<article><h1>Google Patents Device You Inject Into Your Eyeball</h1><p>Forget laser surgery. If Google has a say in it, we'll soon be injecting devices into our eyes to help improve our vision. Andrew Hoyle | CNET - Up next in "terrifying things I don't ever want to have done": Google has filed a patent for a vision-correcting electronic device that has to be injected directly into your eye.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/abe9e96b08e2d58c2cfd60230dd647baec75661c.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://uproxx.com/life/food-michael-pollan-2016-clinton-farm-feminism-raw/2/</link>
             <guid isPermaLink="false">bf03c58d-6e6b-4d24-8fb1-d57062f6843d</guid>
             <pubDate>Tue, 19 Apr 2016 16:07:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ ]]></title>
-            <description><![CDATA[<article><h1></h1><p>The move comes as presidential candidates from both parties are seizing on the legislation to score points with New York voters ahead of Tuesday's critical primary there. And it has pit the likely next Senate Democratic leader, Chuck Schumer of New York, squarely against the Obama administration.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/483b2473ad956bd84704b867d440e365c8e5ece4.jpg"></article>]]></description>
-            <link>http://edition.cnn.com/2016/04/18/politics/9-11-saudi-terror-lawsuit-bill-veto-threat/</link>
-            <guid isPermaLink="false">46df18d7-771f-4f10-936a-36a555e27ea3</guid>
-            <pubDate>Tue, 19 Apr 2016 15:40:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
