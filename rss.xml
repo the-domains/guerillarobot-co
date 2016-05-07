@@ -4,8 +4,15 @@
         <description><![CDATA[Guerillarobot.com]]></description>
         <link>http://guerillarobot.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 16:48:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 05:43:49 GMT</lastBuildDate>
         <atom:link href="http://guerillarobot.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[To the next POTUS: For communities of color, encryption is a civil right]]></title>
+            <description><![CDATA[<article><h1>To the next POTUS: For communities of color, encryption is a civil right</h1><p>From San Bernardino to Brooklyn to Capitol Hill, the fight over encryption has boiled over this past month. But who's paying attention? The basic security feature all of us depend on daily to protect our online payment transactions, message content, and other personal data is increasingly taken for granted.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9aaf341c3d895b6806963f6c65e9782883023d19.jpg"></article>]]></description>
+            <link>http://techcrunch.com/2016/05/06/to-the-next-potus-for-communities-of-color-encryption-is-a-civil-right/</link>
+            <guid isPermaLink="false">41f0ba90-8ba6-4589-90c1-ec413a2867a1</guid>
+            <pubDate>Sat, 07 May 2016 05:43:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Netflix Just Made It Way Easier To Stream Shows On the Go]]></title>
             <description><![CDATA[<article><h1>Netflix Just Made It Way Easier To Stream Shows On the Go</h1><p>Streaming Netflix over a cellular connection has always felt like a sketchy proposition. You know you're burning data, but you just have to watch one more Kimmy Schmidt. Well, Netflix just rolled out a feature that means you may have to worry less.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4c414de594fb5b91c18da658adac3335033b56b.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://abc7ny.com/news/no-jail-time-for-former-nypd-officer-peter-liang-in-death-of-akai-gurley/1298037/</link>
             <guid isPermaLink="false">10b6bd6b-6d29-447d-847a-25d88e02ced5</guid>
             <pubDate>Tue, 19 Apr 2016 23:06:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Michael Pollan Tells Us Exactly How To Reform America's Food Culture, And Explains Why It's So Important]]></title>
-            <description><![CDATA[<article><h1>Michael Pollan Tells Us Exactly How To Reform America's Food Culture, And Explains Why It's So Important</h1><p>You may not know it, but Michael Pollan has been fighting for your right to eat good food for more than 25 years. The acclaimed author, lecturer, and freshly minted TV star works tirelessly to expose the difference between real food and the processed junk sold by the Don Drapers of the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e24397100df5975b612f753c8817e0db7688497.jpg"></article>]]></description>
-            <link>http://uproxx.com/life/food-michael-pollan-2016-clinton-farm-feminism-raw/2/</link>
-            <guid isPermaLink="false">bf03c58d-6e6b-4d24-8fb1-d57062f6843d</guid>
-            <pubDate>Tue, 19 Apr 2016 16:07:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
