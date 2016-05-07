@@ -4,8 +4,15 @@
         <description><![CDATA[Guerillarobot.com]]></description>
         <link>http://guerillarobot.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 05:43:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 05:51:58 GMT</lastBuildDate>
         <atom:link href="http://guerillarobot.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lawsuit challenging Facebook's facial recognition system moves forward]]></title>
+            <description><![CDATA[<article><h1>Lawsuit challenging Facebook's facial recognition system moves forward</h1><p>A lawsuit alleging that Facebook photo tagging violates user privacy has cleared a crucial early hurdle. A judge in Northern California District Court today ruled against a motion by Facebook to dismiss. That leaves the larger questions around biometric privacy unanswered, but clears the way for a major legal battle over one of Facebook's most popular products.</p><img src="https://cdn2.vox-cdn.com/thumbor/C1OHZJvUXICE2F7KtzawTiblmKk=/0x107:1019x680/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/49506527/fbappicon1_1020.0.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/5/5/11605068/facebook-photo-tagging-lawsuit-biometric-privacy</link>
+            <guid isPermaLink="false">58aafa78-a68f-4099-ad69-b3312030d8f8</guid>
+            <pubDate>Sat, 07 May 2016 05:51:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[To the next POTUS: For communities of color, encryption is a civil right]]></title>
             <description><![CDATA[<article><h1>To the next POTUS: For communities of color, encryption is a civil right</h1><p>From San Bernardino to Brooklyn to Capitol Hill, the fight over encryption has boiled over this past month. But who's paying attention? The basic security feature all of us depend on daily to protect our online payment transactions, message content, and other personal data is increasingly taken for granted.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9aaf341c3d895b6806963f6c65e9782883023d19.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://afropunkfest.com/brooklyn/</link>
             <guid isPermaLink="false">e26664a8-b27c-4550-bdb4-511243d30601</guid>
             <pubDate>Wed, 20 Apr 2016 21:36:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Judge says no jail time for former NYPD Officer Peter Liang in fatal shooting of Akai Gurley]]></title>
-            <description><![CDATA[<article><h1>Judge says no jail time for former NYPD Officer Peter Liang in fatal shooting of Akai Gurley</h1><p>A former police officer convicted in the shooting death of an unarmed man in a darkened stairwell was spared prison time Tuesday, and a judge reduced his manslaughter conviction to a lesser charge.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1bf01900717fa9eb33e09a64fa787347fbc9dfc8.jpg"></article>]]></description>
-            <link>http://abc7ny.com/news/no-jail-time-for-former-nypd-officer-peter-liang-in-death-of-akai-gurley/1298037/</link>
-            <guid isPermaLink="false">10b6bd6b-6d29-447d-847a-25d88e02ced5</guid>
-            <pubDate>Tue, 19 Apr 2016 23:06:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
