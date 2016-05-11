@@ -4,8 +4,15 @@
         <description><![CDATA[Guerillarobot.com]]></description>
         <link>http://guerillarobot.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 01:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 20:03:16 GMT</lastBuildDate>
         <atom:link href="http://guerillarobot.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Start-up Has Invented Veggie Burgers That 'Bleed']]></title>
+            <description><![CDATA[<article><h1>A Start-up Has Invented Veggie Burgers That 'Bleed'</h1><p>A biochemist named Patrick Brown has come up with yet another alternative strategy to produce entirely meatless hamburgers that look and taste very much like meat. That's one above, looking sufficiently burgerlike; it's even got that pristine medium-rare thing going on.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff31c8ee424121c1ea4db2afd36d7423a41a9ee2.jpg"></article>]]></description>
+            <link>http://www.grubstreet.com/2014/10/impossible-foods.html</link>
+            <guid isPermaLink="false">cc95dc9e-1ab7-4012-bef3-2de9e53a0e60</guid>
+            <pubDate>Wed, 11 May 2016 20:02:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The War on Vaping - disinformation]]></title>
             <description><![CDATA[<article><h1>The War on Vaping - disinformation</h1><p>( ANTIMEDIA) As people have taken up vaping in droves, it was only a matter of time before the joy police pulled up and slapped rules on the electronic substitute. This week, the Food and Drug Administration did exactly that when it announced U.S. tobacco regulations will be extended to e-cigarettes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e317537e9c7e94b70024fc88d1cce82e49c8a96.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://techcrunch.com/2016/05/06/to-the-next-potus-for-communities-of-color-encryption-is-a-civil-right/</link>
             <guid isPermaLink="false">41f0ba90-8ba6-4589-90c1-ec413a2867a1</guid>
             <pubDate>Sat, 07 May 2016 05:43:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netflix Just Made It Way Easier To Stream Shows On the Go]]></title>
-            <description><![CDATA[<article><h1>Netflix Just Made It Way Easier To Stream Shows On the Go</h1><p>Streaming Netflix over a cellular connection has always felt like a sketchy proposition. You know you're burning data, but you just have to watch one more Kimmy Schmidt. Well, Netflix just rolled out a feature that means you may have to worry less.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e4c414de594fb5b91c18da658adac3335033b56b.jpg"></article>]]></description>
-            <link>http://www.wired.com/2016/05/netflix-just-made-way-easier-stream-shows-go/</link>
-            <guid isPermaLink="false">a15261eb-c1aa-46df-a015-e11ecc6f2a03</guid>
-            <pubDate>Fri, 06 May 2016 16:48:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
