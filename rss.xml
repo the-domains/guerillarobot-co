@@ -4,8 +4,15 @@
         <description><![CDATA[Guerillarobot.com]]></description>
         <link>http://guerillarobot.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 20:03:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 12:14:31 GMT</lastBuildDate>
         <atom:link href="http://guerillarobot.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[FDA sued over approval of genetically engineered 'frankenfish']]></title>
+            <description><![CDATA[<article><h1>FDA sued over approval of genetically engineered 'frankenfish'</h1><p>The US Food and Drug Administration is being sued by a coalition of environmental, fishing and consumer groups for its approval of genetically engineered salmon - the first such animal to ever be sold for commercial consumption. The lawsuit announced Thursday challenges the FDA's power to approve the salmon, which can be grown twice as quickly as natural salmon.</p><img src="https://img.rt.com/files/2016.04/article/56fe9852c4618822458b4589.jpg"></article>]]></description>
+            <link>https://www.rt.com/usa/338053-fda-sued-frankenfish-approval/</link>
+            <guid isPermaLink="false">9c1e40c0-e00e-40c1-bdef-1007d8b43a8b</guid>
+            <pubDate>Thu, 12 May 2016 12:13:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Start-up Has Invented Veggie Burgers That 'Bleed']]></title>
             <description><![CDATA[<article><h1>A Start-up Has Invented Veggie Burgers That 'Bleed'</h1><p>A biochemist named Patrick Brown has come up with yet another alternative strategy to produce entirely meatless hamburgers that look and taste very much like meat. That's one above, looking sufficiently burgerlike; it's even got that pristine medium-rare thing going on.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff31c8ee424121c1ea4db2afd36d7423a41a9ee2.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.theverge.com/2016/5/5/11605068/facebook-photo-tagging-lawsuit-biometric-privacy</link>
             <guid isPermaLink="false">58aafa78-a68f-4099-ad69-b3312030d8f8</guid>
             <pubDate>Sat, 07 May 2016 05:51:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[To the next POTUS: For communities of color, encryption is a civil right]]></title>
-            <description><![CDATA[<article><h1>To the next POTUS: For communities of color, encryption is a civil right</h1><p>From San Bernardino to Brooklyn to Capitol Hill, the fight over encryption has boiled over this past month. But who's paying attention? The basic security feature all of us depend on daily to protect our online payment transactions, message content, and other personal data is increasingly taken for granted.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9aaf341c3d895b6806963f6c65e9782883023d19.jpg"></article>]]></description>
-            <link>http://techcrunch.com/2016/05/06/to-the-next-potus-for-communities-of-color-encryption-is-a-civil-right/</link>
-            <guid isPermaLink="false">41f0ba90-8ba6-4589-90c1-ec413a2867a1</guid>
-            <pubDate>Sat, 07 May 2016 05:43:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
