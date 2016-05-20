@@ -4,8 +4,15 @@
         <description><![CDATA[Guerillarobot.com]]></description>
         <link>http://guerillarobot.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 12:50:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 May 2016 13:14:17 GMT</lastBuildDate>
         <atom:link href="http://guerillarobot.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Apple's retail chief reveals the future of its iconic stores]]></title>
+            <description><![CDATA[<article><h1>Apple's retail chief reveals the future of its iconic stores</h1><p>That's the sort of thing Apple retail chief Angela Ahrendts wants people to say to their friends about the company's massive new flagship store opening this weekend in downtown San Francisco.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7da354ed2c5edff4a037b8b1d20a6e26587129e.jpg"></article>]]></description>
+            <link>http://mashable.com/2016/05/19/apple-store-redesign-flagship/?utm_cid=mash-com-Tw-main-link#KRkE_Dh9K5qV</link>
+            <guid isPermaLink="false">aa902f87-5b80-43e9-af00-cdddf38a5b39</guid>
+            <pubDate>Fri, 20 May 2016 13:13:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The bio-crime prophecy: DNA hacking the biggest opportunity since cyber attacks (Wired UK)]]></title>
             <description><![CDATA[<article><h1>The bio-crime prophecy: DNA hacking the biggest opportunity since cyber attacks (Wired UK)</h1><p>This article was taken from the June 2013 issue of Wired magazine. Be the first to read Wired's articles in print before they're posted online, and get your hands on loads of additional content by subscribing online . There have always been hackers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4cc06dc2e0da2e8b5b802c68212c740ae7cc5a9.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.wired.com/2016/05/the-end-of-code/</link>
             <guid isPermaLink="false">477c9846-0d6f-4ae3-9779-ba397986b61e</guid>
             <pubDate>Tue, 17 May 2016 16:22:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BitTorrent unveils new live-streaming platform for peer-to-peer broadcasts]]></title>
-            <description><![CDATA[<article><h1>BitTorrent unveils new live-streaming platform for peer-to-peer broadcasts</h1><p>BitTorrent has been working on its proprietary live-streaming technology for years, but today unveiled its first dedicated app. BitTorrent Live is scheduled to launch on Apple TV this week, before coming to iOS and Android sometime in June.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8132759a0d970479c79883db2d5e6bec71e029f0.png"></article>]]></description>
-            <link>http://www.theverge.com/2016/5/17/11689158/bittorrent-live-streaming-video-platform</link>
-            <guid isPermaLink="false">65a70046-1d9b-406a-8f37-60bc9600305a</guid>
-            <pubDate>Tue, 17 May 2016 16:22:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
