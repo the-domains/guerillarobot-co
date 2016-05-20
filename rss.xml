@@ -4,8 +4,15 @@
         <description><![CDATA[Guerillarobot.com]]></description>
         <link>http://guerillarobot.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 13:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 May 2016 13:14:29 GMT</lastBuildDate>
         <atom:link href="http://guerillarobot.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[An HIV cure just got one step closer]]></title>
+            <description><![CDATA[<article><h1>An HIV cure just got one step closer</h1><p>Scientists have managed to remove DNA of the HIV virus from living tissue for the first time in a breakthrough that could lead to an outright cure.&#13; &#13; At the moment, treating the disease involves the use of drugs that suppress levels of the virus so the body's immune system can cope.&#13; &#13; Now researchers in the US have revealed they used gene-editing technology to remove DNA of the commonest HIV-1 strain from several organs of infected mice and rats.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fde3f05ca1016f48635424f5ca55139771138568.jpg"></article>]]></description>
+            <link>http://www.independent.co.uk/news/science/hiv-aids-cure-virus-disease-dna-genes-temple-university-research-gene-editing-a7037571.html</link>
+            <guid isPermaLink="false">3e18b5db-62aa-4e7f-af3f-f594f88e2e6d</guid>
+            <pubDate>Fri, 20 May 2016 13:14:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Apple's retail chief reveals the future of its iconic stores]]></title>
             <description><![CDATA[<article><h1>Apple's retail chief reveals the future of its iconic stores</h1><p>That's the sort of thing Apple retail chief Angela Ahrendts wants people to say to their friends about the company's massive new flagship store opening this weekend in downtown San Francisco.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7da354ed2c5edff4a037b8b1d20a6e26587129e.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>How to Film a Hollywood-Worthy Movie on Your iPhone</h1><p>Your clip of a rat schlepping a quesadilla has the power to out-hype a summer blockbuster. Do it right. Go Horizontal YouTube, Facebook, and Vimeo display videos in widescreen format, so get with the program. A simple rotation of your phone to horizontal allows you to fill 100 percent of a web player.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8efe08a36b722163943b4baeeb210a0fe9205c19.jpg"></article>]]></description>
             <link>http://www.wired.com/2016/05/how-to-make-smart-phone-video/</link>
             <guid isPermaLink="false">76ae050b-970d-45fe-8876-f4d98f1b8817</guid>
-            <pubDate>Tue, 17 May 2016 16:22:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Soon We Won't Program Computers. We'll Train Them Like Dogs]]></title>
-            <description><![CDATA[<article><h1>Soon We Won't Program Computers. We'll Train Them Like Dogs</h1><p>Before the invention of the computer, most experimental psychologists thought the brain was an unknowable black box. You could analyze a subject's behavior- ring bell, dog salivates -but thoughts, memories, emotions? That stuff was obscure and inscrutable, beyond the reach of science.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c873187cdee0eebda41318fab78e1a487d0a8b9.jpg"></article>]]></description>
-            <link>http://www.wired.com/2016/05/the-end-of-code/</link>
-            <guid isPermaLink="false">477c9846-0d6f-4ae3-9779-ba397986b61e</guid>
             <pubDate>Tue, 17 May 2016 16:22:52 GMT</pubDate>
         </item>
     </channel>
