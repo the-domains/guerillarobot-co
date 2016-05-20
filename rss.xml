@@ -4,8 +4,22 @@
         <description><![CDATA[Guerillarobot.com]]></description>
         <link>http://guerillarobot.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 May 2016 16:33:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 May 2016 00:52:41 GMT</lastBuildDate>
         <atom:link href="http://guerillarobot.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Afero raises $20.3 million to secure connected devices, whether WiFi is working or not]]></title>
+            <description><![CDATA[<article><h1>Afero raises $20.3 million to secure connected devices, whether WiFi is working or not</h1><p>A Los Altos startup called Afero raised $20.3 million in a new round of venture funding to secure connected devices, from toys and arcade games to medical equipment. The company's technology works even when WiFi isn't, employing 4GLTE and other radio sensors.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3ad29ae79e7e5a4474e42d822234e4b34e334ea.jpg"></article>]]></description>
+            <link>http://techcrunch.com/2016/05/19/afero-raises-20-3-million-to-secure-connected-devices-whether-wifi-is-working-or-not/</link>
+            <guid isPermaLink="false">b7b1b6d9-c064-414a-90a8-de5d0565a7ed</guid>
+            <pubDate>Fri, 20 May 2016 00:51:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From WeWork to Pure House: can co-living solve the housing crisis? (Wired UK)]]></title>
+            <description><![CDATA[<article><h1>From WeWork to Pure House: can co-living solve the housing crisis? (Wired UK)</h1><p>This article was first published in the June 2016 issue of WIRED magazine. Be the first to read WIRED's articles in print before they're posted online, and get your hands on loads of additional content by subscribing online. Mike Dillion needed to move house - fast.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/47a6f059f57dc5621a869d8fa8fdb4683f15a1e2.jpg"></article>]]></description>
+            <link>http://www.wired.co.uk/magazine/archive/2016/06/features/coliving-housing-wework-pure-house</link>
+            <guid isPermaLink="false">d07d4eaf-80bc-4356-9b69-1c1dd8da392a</guid>
+            <pubDate>Tue, 17 May 2016 16:32:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Twitter will reportedly stop counting photos and links in 140-character limit]]></title>
             <description><![CDATA[<article><h1>Twitter will reportedly stop counting photos and links in 140-character limit</h1><p>Twitter is planning on letting users craft longer tweets by not counting photos and links toward its 140-character limit, according to a report from Bloomberg today. The change may happen in the coming weeks, and it would remove one of the more annoying product hurdles that has persisted on Twitter for years.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15ed129e32cb9c7bcf546d2863be093a43cf5e09.jpg"></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://disinfo.com/2016/05/151044/</link>
             <guid isPermaLink="false">ec357791-8cda-459d-b83d-465e4340270a</guid>
             <pubDate>Sat, 14 May 2016 13:58:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wendy's Replacing Workers With Kiosks In Response to 'Fight For $15']]></title>
-            <description><![CDATA[<article><h1>Wendy's Replacing Workers With Kiosks In Response to 'Fight For $15'</h1><p>The fast food chain announced it will start automating all of its restaurants by installing self-serve kiosks in 6,000 locations by the end of the year. Although McDonalds has already been experimenting with kiosks, Wendy's announcement is the largest roll-out to date and will likely spark a trend leading to fully robotic restaurants.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b181f71039fa7df335d19aa551e763f141e872c5.jpg"></article>]]></description>
-            <link>http://www.infowars.com/wendys-replacing-workers-with-kiosks-in-response-to-fight-for-15/</link>
-            <guid isPermaLink="false">1c0cf07b-610f-44ce-a42b-c1897f925826</guid>
-            <pubDate>Sat, 14 May 2016 07:45:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[House Hides Most War Funding in NDAA Bill Scheme]]></title>
-            <description><![CDATA[<article><h1>House Hides Most War Funding in NDAA Bill Scheme</h1><p>May 11, 2016 &nbsp | &nbsp admintam The House Appropriations Committee has today unveiled its draft version of the National Defense Authorization Act (NDAA), a $575 billion bill that includes some $59 billion worth of money for Overseas Contingency Operations (OCO), the controversial fund which the Pentagon is allowed to shuffle around.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/250217041eb83520ae4c73a05c6189590949d5d4.jpg"></article>]]></description>
-            <link>http://theantimedia.org/house-hides-most-war-funding-in-ndaa-bill-scheme/</link>
-            <guid isPermaLink="false">fdaf1d3d-0aa1-4e0d-ba35-0c8d6dbbd9e7</guid>
-            <pubDate>Thu, 12 May 2016 22:38:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
