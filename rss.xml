@@ -4,8 +4,15 @@
         <description><![CDATA[Guerillarobot.com]]></description>
         <link>http://guerillarobot.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 17:29:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2016 20:57:23 GMT</lastBuildDate>
         <atom:link href="http://guerillarobot.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New program removes name, age and gender from job applications]]></title>
+            <description><![CDATA[<article><h1>New program removes name, age and gender from job applications</h1><p>Bye bye unconscious bias. In this day and age, there are still job applicants out there who feel the need to anglicise their names or find it hard to get certain work due to their gender.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/108ad76fc4f25f1f1cbdf6513133fc4ee92c981e.jpg"></article>]]></description>
+            <link>http://mashable.com/2016/05/19/identify-job-applications/#fZzDJEqaRqq2</link>
+            <guid isPermaLink="false">47c35c0f-a922-48dd-93e7-e3b66e418a17</guid>
+            <pubDate>Sun, 22 May 2016 20:57:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Watch Kanye West's unfiltered speech on 'Ellen': 'I'm sorry for the realness']]></title>
             <description><![CDATA[<article><h1>Watch Kanye West's unfiltered speech on 'Ellen': 'I'm sorry for the realness'</h1><p>Kanye West's philosophical side made an appearance on Ellen. While chatting with DeGeneres on Wednesday, West went off on a serious tangent about art, Twitter, creativity and humanity itself. "I see the importance and the value of everyone being able to experience a more beautiful life," he says.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e5834ed3da91794560bd1a0818951a8ccd68f475.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.complex.com/life/2016/05/black-guest-sues-airbnb-claims-company-ignored-host-racial-discrimination</link>
             <guid isPermaLink="false">b0eab9e5-5075-416b-8353-6c47b5122559</guid>
             <pubDate>Fri, 20 May 2016 12:47:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afero raises $20.3 million to secure connected devices, whether WiFi is working or not]]></title>
-            <description><![CDATA[<article><h1>Afero raises $20.3 million to secure connected devices, whether WiFi is working or not</h1><p>A Los Altos startup called Afero raised $20.3 million in a new round of venture funding to secure connected devices, from toys and arcade games to medical equipment. The company's technology works even when WiFi isn't, employing 4GLTE and other radio sensors.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3ad29ae79e7e5a4474e42d822234e4b34e334ea.jpg"></article>]]></description>
-            <link>http://techcrunch.com/2016/05/19/afero-raises-20-3-million-to-secure-connected-devices-whether-wifi-is-working-or-not/</link>
-            <guid isPermaLink="false">b7b1b6d9-c064-414a-90a8-de5d0565a7ed</guid>
-            <pubDate>Fri, 20 May 2016 00:51:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
