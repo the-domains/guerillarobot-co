@@ -7,6 +7,13 @@
         <lastBuildDate>Sun, 22 May 2016 16:40:21 GMT</lastBuildDate>
         <atom:link href="http://guerillarobot.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Fight Club author Chuck Palahniuk turns to Kickstarter to finance his new movie]]></title>
+            <description><![CDATA[<article><h1>Fight Club author Chuck Palahniuk turns to Kickstarter to finance his new movie</h1><p>Chuck Palahniuk has never written the most adaption-friendly novels, so it probably shouldn't come as a surprise that he's turning to Kickstarter to help, um, kickstart an adaptation of his 2002 novel Lullaby.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4ecff03c13a12e9dd9ae665d650bef5148a541c.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/5/17/11694394/chuck-palahniuk-lullaby-movie-kickstarter-campaign?utm_campaign=theverge&amp;utm_content=chorus&amp;utm_medium=social&amp;utm_source=twitter</link>
+            <guid isPermaLink="false">f63da025-ce50-4d86-b6c1-15c1d7fdac55</guid>
+            <pubDate>Sun, 22 May 2016 16:39:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Uber can now let a family member see where you're traveling in real time]]></title>
             <description><![CDATA[<article><h1>Uber can now let a family member see where you're traveling in real time</h1><p>Uber is introducing a new safety feature today that allows a family member to track where you're going. Now when you're using Uber's Family Profile feature, the family account's creator will receive a notification as soon as you start a trip; tapping it will bring them to a map inside the Uber app, showing where your ride is going in real time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3b5f0d293143a8592c14a4d9d0d8f72ba56752f.png"></article>]]></description>
             <link>http://www.theverge.com/2016/5/17/11695864/uber-trip-tracker-real-time-map-for-family-members?utm_campaign=theverge&amp;utm_content=chorus&amp;utm_medium=social&amp;utm_source=twitter</link>
@@ -68,13 +75,6 @@
             <link>http://www.wired.co.uk/magazine/archive/2016/06/features/coliving-housing-wework-pure-house</link>
             <guid isPermaLink="false">d07d4eaf-80bc-4356-9b69-1c1dd8da392a</guid>
             <pubDate>Tue, 17 May 2016 16:32:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Twitter will reportedly stop counting photos and links in 140-character limit]]></title>
-            <description><![CDATA[<article><h1>Twitter will reportedly stop counting photos and links in 140-character limit</h1><p>Twitter is planning on letting users craft longer tweets by not counting photos and links toward its 140-character limit, according to a report from Bloomberg today. The change may happen in the coming weeks, and it would remove one of the more annoying product hurdles that has persisted on Twitter for years.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15ed129e32cb9c7bcf546d2863be093a43cf5e09.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/5/16/11686112/twitter-140-character-count-limit-change-link-photo</link>
-            <guid isPermaLink="false">9c128a58-32e7-4bdb-a756-75db9422beec</guid>
-            <pubDate>Tue, 17 May 2016 16:32:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
