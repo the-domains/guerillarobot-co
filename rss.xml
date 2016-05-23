@@ -4,8 +4,15 @@
         <description><![CDATA[Guerillarobot.com]]></description>
         <link>http://guerillarobot.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 22:25:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 13:36:44 GMT</lastBuildDate>
         <atom:link href="http://guerillarobot.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About · Human Computers at NASA]]></title>
+            <description><![CDATA[<article><h1>About · Human Computers at NASA</h1><p>Digital collection and timeline focused on telling the development of education of former slaves in Hampton, VA; the establishment of the Hampton University, and the African-American female mathemathicians who worked at NASA's Langley Memorial Research Center and helped launch the space age.</p></article>]]></description>
+            <link>http://omeka.macalester.edu/humancomputerproject/about</link>
+            <guid isPermaLink="false">cc894a9c-1293-44f1-bfb2-46d8e6da36fe</guid>
+            <pubDate>Mon, 23 May 2016 13:36:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Is it time to free the Native American activist Leonard Peltier?]]></title>
             <description><![CDATA[<article><h1>Is it time to free the Native American activist Leonard Peltier?</h1><p>The first time I met with U.S. prisoner Leonard Peltier, he was planning his funeral. The 71-year-old has lived behind barbed wire and concrete walls for more than half of his life, cemented in the custody of the Federal Bureau of Prisons.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3fd218abc0ec53bc7196a4dcc1ce145778c77c2b.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.wired.co.uk/news/archive/2016-05/19/iraq-internet-blackout-censorship</link>
             <guid isPermaLink="false">4c4a99a3-d88f-492a-bfe2-b7d50202f54f</guid>
             <pubDate>Fri, 20 May 2016 12:49:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pilot earbuds are like a real life, language-translating babel fish]]></title>
-            <description><![CDATA[<article><h1>Pilot earbuds are like a real life, language-translating babel fish</h1><p>The world has thousands of languages, each with their own unique structures and rules. In the Hitchhiker's Guide to the Galaxy universe, this galactic-scale conundrum is solved with a babel fish, a fish you stick in your ear that eats other people's brainwaves and excretes a translation into your mind.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/705a33999b144743c8ad426f7ac5dcd3d3614f98.jpg"></article>]]></description>
-            <link>http://mashable.com/2016/05/17/pilot-translate/#he.SFsDU3ZqI?utm_cid=mash-com-sav-desc-link</link>
-            <guid isPermaLink="false">4d3a976f-1647-4459-9130-4a7272dcfe09</guid>
-            <pubDate>Fri, 20 May 2016 12:47:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
