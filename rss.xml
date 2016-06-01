@@ -4,15 +4,8 @@
         <description><![CDATA[Guerillarobot.com]]></description>
         <link>http://guerillarobot.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 22:56:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2016 22:56:06 GMT</lastBuildDate>
         <atom:link href="http://guerillarobot.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Blendle adds apps for its pay-per-story news service in the US]]></title>
-            <description><![CDATA[<article><h1>Blendle adds apps for its pay-per-story news service in the US</h1><p>News delivery startup Blendle, which is applying a Netflix-style marketplace model to journalism offering pay-per-article reads from a range of different publishers, has launched iOS and Android apps in the US, expanding how US users get to consume their chosen content.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6b118dcccf0eec0013b0712ee43bf4efc2487c8.jpg"></article>]]></description>
-            <link>http://techcrunch.com/2016/05/27/blendle-adds-apps-for-its-pay-per-story-news-service-in-the-us/</link>
-            <guid isPermaLink="false">02925829-3345-48e7-a897-a84c42f45d4c</guid>
-            <pubDate>Wed, 01 Jun 2016 22:56:03 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Inside Uber's auto-lease machine, where almost anyone can get a car]]></title>
             <description><![CDATA[<article><h1>Inside Uber's auto-lease machine, where almost anyone can get a car</h1><p>In its relentless pursuit for growth, Uber needs new drivers, and many of those drivers need cars. To help them get started, Uber has been offering short-term leases since July through a wholly owned Delaware-based subsidiary called Xchange Leasing, LLC.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bfaec4e4290d55ea3e5c63b7a156c55957eb350f.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://mashable.com/2016/05/19/apple-store-redesign-flagship/?utm_cid=mash-com-Tw-main-link#KRkE_Dh9K5qV</link>
             <guid isPermaLink="false">aa902f87-5b80-43e9-af00-cdddf38a5b39</guid>
             <pubDate>Fri, 20 May 2016 13:13:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The bio-crime prophecy: DNA hacking the biggest opportunity since cyber attacks (Wired UK)]]></title>
+            <description><![CDATA[<article><h1>The bio-crime prophecy: DNA hacking the biggest opportunity since cyber attacks (Wired UK)</h1><p>This article was taken from the June 2013 issue of Wired magazine. Be the first to read Wired's articles in print before they're posted online, and get your hands on loads of additional content by subscribing online . There have always been hackers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4cc06dc2e0da2e8b5b802c68212c740ae7cc5a9.jpg"></article>]]></description>
+            <link>http://www.wired.co.uk/magazine/archive/2013/06/feature-bio-crime/the-bio-crime-prophecy</link>
+            <guid isPermaLink="false">1c5b5c36-8980-446b-a287-a930353cc044</guid>
+            <pubDate>Fri, 20 May 2016 12:50:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
