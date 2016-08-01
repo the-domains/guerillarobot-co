@@ -4,8 +4,15 @@
         <description><![CDATA[Guerillarobot.com]]></description>
         <link>http://guerillarobot.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Aug 2016 15:55:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2016 15:55:35 GMT</lastBuildDate>
         <atom:link href="http://guerillarobot.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Google Maps for iOS now supports multiple destinations]]></title>
+            <description><![CDATA[<article><h1>Google Maps for iOS now supports multiple destinations</h1><p>Google Maps is adding a very useful feature to iOS today: the ability to add multiple stops to a single trip. Rather than only directing you from point A to point B, Maps can now bring you from point B to point C, D, E, and so on, making it much easier to plan a trip if you intend to bounce around and make occasional pitstops.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0095efb1d6d63a4a1014809c1fe8cae7/noop.png?input=https%3A%2F%2Fcdn0.vox-cdn.com%2Fthumbor%2FRhlyOvWxJcpCbsxtXDxA2huMG_o%3D%2F0x0%3A884x497%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50250037%2Fmapsmultiple.0.0.png"></article>]]></description>
+            <link>http://www.theverge.com/2016/7/29/12329540/google-maps-ios-update-multiple-destinations</link>
+            <guid isPermaLink="false">81e93f38-7b40-4d93-9e8e-41cc2ebe76af</guid>
+            <pubDate>Mon, 01 Aug 2016 15:55:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Alton Sterling Witness Sues Cops for Illegally Locking Him Up to Steal Surveillance Video]]></title>
             <description><![CDATA[<article><h1>Alton Sterling Witness Sues Cops for Illegally Locking Him Up to Steal Surveillance Video</h1><p>Baton Rouge, LA - A graphic cell phone video showing two officers execute a man at point blank range last week prompted immediate outrage in a Baton Rouge community. While the first video was enough to enrage the community, another video, released the Wednesday after the shooting, was absolutely horrifying.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e7fa5fb6315c1fdaea9cee3e5926518e/noop.jpg?input=http%3A%2F%2Fcountercurrentnews.com%2Fwp-content%2Fuploads%2F2016%2F07%2Falton-sterling-surveillance-video-1.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://variety.com/2016/film/news/constance-wu-matt-damon-the-great-wall-racist-myth-1201827119/</link>
             <guid isPermaLink="false">a45f9d06-6b6f-4c18-b9cb-13a9dda9c014</guid>
             <pubDate>Mon, 01 Aug 2016 15:52:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sheriff David Clarke Blasts CNN's Don Lemon: Where's the Focus on Black-on-Black Violence? " Alex Jones' Infowars: There's a war on for your mind!]]></title>
-            <description><![CDATA[<article><h1>Sheriff David Clarke Blasts CNN's Don Lemon: Where's the Focus on Black-on-Black Violence? " Alex Jones' Infowars: There's a war on for your mind!</h1><p>Milwaukee Sheriff David Clarke lost his patience with CNN's Don Lemon after the murder of three police officers in Baton Rouge, calling 'Black Lives Matter' a "hateful ideology" and demanding to know why the media has failed to focus on the epidemic of black-on-black violence.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/66a61a5fa8709417e11cf939fcfc658c/noop.jpg?input=http%3A%2F%2Fhw.infowars.com%2Fwp-content%2Fuploads%2F2016%2F07%2F180716sheriff1a.jpg"></article>]]></description>
-            <link>http://www.infowars.com/sheriff-david-clarke-blasts-cnns-don-lemon-wheres-the-focus-on-black-on-black-violence/</link>
-            <guid isPermaLink="false">72e34dc4-13ec-4afa-8e48-6839ab6c44cc</guid>
-            <pubDate>Thu, 21 Jul 2016 17:07:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
