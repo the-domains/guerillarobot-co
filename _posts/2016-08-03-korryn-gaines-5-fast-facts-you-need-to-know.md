@@ -1,19 +1,16 @@
 ---
 title: 'Korryn Gaines: 5 Fast Facts You Need to Know'
-datePublished: '2016-08-03T18:22:53.533Z'
-dateModified: '2016-08-02T04:29:22.557Z'
+datePublished: '2016-08-03T19:20:56.309Z'
+dateModified: '2016-08-03T19:20:41.450Z'
 author:
   - name: Tom Cleary
     url: 'http://heavy.com/author/tomwcleary46/'
     avatar: {}
 isBasedOnUrl: >-
-  https://www.google.com/amp/heavy.com/news/2016/08/korryn-gaines-baltimore-county-maryland-son-kodi-photos-facebook-police-shooting-photos-facebook-videos-warrant/amp/?client=safari
+  http://heavy.com/news/2016/08/korryn-gaines-baltimore-county-maryland-son-kodi-photos-facebook-police-shooting-photos-facebook-videos-warrant/
 description: >-
-  A 23-year-old woman was fatally shot by Baltimore County Police and her
-  5-year-old son was wounded during a shootout at the end of a standoff that
-  lasted several hours, authorities say. Korryn Gaines, of Randallstown,
-  Maryland, was pronounced dead at the scene Monday, police said in a press
-  release.
+  Korryn Gaines, 23, was fatally shot by Baltimore County, Maryland, police
+  during a standoff in Randallstown. Her 5-year-old son was also shot.
 publisher: {}
 via: {}
 starred: false
@@ -24,4 +21,4 @@ inNav: false
 _type: MediaObject
 
 ---
-<article style=""><h1>Korryn Gaines: 5 Fast Facts You Need to Know</h1><p>A 23-year-old woman was fatally shot by Baltimore County Police and her 5-year-old son was wounded during a shootout at the end of a standoff that lasted several hours, authorities say. Korryn Gaines, of Randallstown, Maryland, was pronounced dead at the scene Monday, police said in a press release.</p><img src="https://heavyeditorial.files.wordpress.com/2016/08/korryn-gaines-4-e1470106504958.jpg?quality=65&amp;strip=all&amp;strip=all" /></article>
+<article style=""><h1>Korryn Gaines: 5 Fast Facts You Need to Know</h1><p>Korryn Gaines, 23, was fatally shot by Baltimore County, Maryland, police during a standoff in Randallstown. Her 5-year-old son was also shot.</p><img src="https://i1.wp.com/heavyeditorial.files.wordpress.com/2016/08/korryn-gaines-31-e1470106153673.jpg?fit=440%2C330&amp;quality=65&amp;strip=all&amp;ssl=1" /></article>
