@@ -4,8 +4,15 @@
         <description><![CDATA[Guerillarobot.com]]></description>
         <link>http://guerillarobot.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 16:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 16:27:33 GMT</lastBuildDate>
         <atom:link href="http://guerillarobot.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A billing scam just cost AT&T $7.7 million]]></title>
+            <description><![CDATA[<article><h1>A billing scam just cost AT&T $7.7 million</h1><p>It's surprisingly easy to add charges to a phone bill, and surprisingly difficult to take them off. It has gotten a little better in recent years, but it's still a huge headache for anyone who finds an extra few dollars on their bill. This sort of thing is not an accident!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/931a6fe7d0e49746af7035162fc28186/noop.jpg?input=https%3A%2F%2Fcdn0.vox-cdn.com%2Fthumbor%2F5iKRMGwvXSL9lhvrXuPz9eUvgXQ%3D%2F0x106%3A2040x1254%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50321995%2Fatt1_2040.0.0.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/8/8/12403862/att-billing-scam-fcc-fine-7-million</link>
+            <guid isPermaLink="false">ca904538-d659-4014-9e29-a0bcdc297ab7</guid>
+            <pubDate>Thu, 11 Aug 2016 16:27:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Inside the Global Fight Against Corporate Impunity - disinformation]]></title>
             <description><![CDATA[<article><h1>Inside the Global Fight Against Corporate Impunity - disinformation</h1><p>Among the many terrible features of the Trans Pacific Partnership, twelve countries are crafting something that would give corporations unprecedented power: a secret court for capitalist enterprises to sue any country that infringes on profits.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3866b39b07530122142c4a5360104857/noop.png?input=http%3A%2F%2Fdisinfo.com%2Fwp-content%2Fuploads%2F2016%2F08%2FMariaEspinosaThumb.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://wikileaks.org/tpp-final/</link>
             <guid isPermaLink="false">bb8b23ab-5716-41bf-ba86-2b089ebe50d2</guid>
             <pubDate>Mon, 01 Aug 2016 15:54:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Democrats' House campaign committee confirms it was also hacked]]></title>
-            <description><![CDATA[<article><h1>Democrats' House campaign committee confirms it was also hacked</h1><p>The Democratic hacks just keep coming. Following on from the high-profile hack of the Democratic National Committee (DNC), the Democratic Congressional Campaign Committee (DCCC) has confirmed it has also been hacked. The DCCC is the campaign arm for House Democrats. On Friday morning, CNN political reporter Manu Raju tweeted that the hack has been confirmed by the DCCC.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/126ee57a4a5bc41e718ac03430d4d814/noop.jpg?input=http%3A%2F%2Fi.amz.mshcdn.com%2FawhoAR0O9KLHjvRCc95FJgWQ92E%3D%2F1200x630%2F2016%252F07%252F29%252F89%252FGettyImages530408760.18a80.jpg"></article>]]></description>
-            <link>http://mashable.com/2016/07/29/dccc-hack/#HghYw8kiRaq9</link>
-            <guid isPermaLink="false">7d0a54a1-a9a9-4065-a4fe-a15708a12bd9</guid>
-            <pubDate>Mon, 01 Aug 2016 15:54:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
