@@ -4,8 +4,15 @@
         <description><![CDATA[Guerillarobot.com]]></description>
         <link>http://guerillarobot.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Aug 2016 15:39:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2016 15:40:38 GMT</lastBuildDate>
         <atom:link href="http://guerillarobot.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Milwaukee Officials Plead for Calm After Unrest Wracks City]]></title>
+            <description><![CDATA[<article><h1>Milwaukee Officials Plead for Calm After Unrest Wracks City</h1><p>City leaders pleaded for calm after violence erupted for several hours Saturday night on Milwaukee's north side following a man's fatal shooting by police earlier in the day, with the mayor imploring parents of anyone at the scene to "get them home right now" after at least four businesses burned and one officer was hurt.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2ff1eca56767b6c4924a8c10ed204805/noop.jpg?input=https%3A%2F%2Fcdn1.nyt.com%2Fimages%2F2016%2F08%2F13%2Fus%2F13Milwaukee-wire%2F13Milwaukee-wire-thumbLarge.jpg"></article>]]></description>
+            <link>http://mobile.nytimes.com/aponline/2016/08/13/us/ap-us-officer-involved-shooting-milwaukee.html</link>
+            <guid isPermaLink="false">cc3e990a-9a3a-42d5-9618-bffe4d4a3e2b</guid>
+            <pubDate>Mon, 15 Aug 2016 15:39:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Most Bottled Water is FILLED With Fluoride, Here's a Complete List of Brands to Avoid]]></title>
             <description><![CDATA[<article><h1>Most Bottled Water is FILLED With Fluoride, Here's a Complete List of Brands to Avoid</h1><p>"Fluoride seems to fit in with lead, mercury, and other poisons that cause chemical brain drain,"Grandjean says. "The effect of each toxicant may seem small, but the combined damage on a population scale can be serious, especially because the brain power of the next generation is crucial to all of us."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7f2cdd001d5c17682d5b3357e60706b5/noop.jpg?input=http%3A%2F%2Fwww.healty365days.com%2Fwp-content%2Fuploads%2F2016%2F05%2FMost-Bottled-Water-is-FILLED-With-Fluoride-Here%25E2%2580%2599s-a-Complete-List-of-Brands-to-Avoid-700x525.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.nbcnews.com/news/us-news/new-texas-law-allows-college-students-carry-guns-campus-n620911</link>
             <guid isPermaLink="false">b53f9ed5-a1b5-40a0-be6c-4de9e5701469</guid>
             <pubDate>Wed, 03 Aug 2016 18:22:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WikiLeaks - The New Dirty War for Africa's uranium and mineral rights]]></title>
-            <description><![CDATA[<article><h1>WikiLeaks - The New Dirty War for Africa's uranium and mineral rights</h1><p>BEGIN PGP PUBLIC KEY BLOCK----- mQQNBFUoCGgBIADFLp+QonWyK8L6SPsNrnhwgfCxCk6OUHRIHReAsgAUXegpfg0b rsoHbeI5W9s5to/MUGwULHj59M6AvT+DS5rmrThgrND8Dt0dO+XW88bmTXHsFg9K ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7f45af93e0537f4380fdd35fa5f7d9b3/noop.png?input=https%3A%2F%2Fwikileaks.org%2Fcar-mining%2Fhtml%2FDraft-Letter-Mining-Permits%2Fposter.png"></article>]]></description>
-            <link>https://wikileaks.org/car-mining/</link>
-            <guid isPermaLink="false">5683c5f8-f888-4c6c-a6c0-61f3b08229b0</guid>
-            <pubDate>Mon, 01 Aug 2016 15:58:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
