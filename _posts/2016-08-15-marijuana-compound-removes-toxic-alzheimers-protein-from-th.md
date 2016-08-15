@@ -1,7 +1,7 @@
 ---
 title: Marijuana Compound Removes Toxic Alzheimer's Protein From the Brain
-datePublished: '2016-08-15T20:21:13.446Z'
-dateModified: '2016-08-15T20:12:40.041Z'
+datePublished: '2016-08-15T20:23:48.131Z'
+dateModified: '2016-08-15T20:21:54.377Z'
 author: []
 isBasedOnUrl: >-
   http://countercurrentnews.com/2016/08/compound-removes-toxic-alzheimers-protein-brain/
