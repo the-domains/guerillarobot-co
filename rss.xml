@@ -4,8 +4,15 @@
         <description><![CDATA[Guerillarobot.com]]></description>
         <link>http://guerillarobot.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 18:00:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 15:34:18 GMT</lastBuildDate>
         <atom:link href="http://guerillarobot.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CrimeRadar is using machine learning to predict crime in Rio]]></title>
+            <description><![CDATA[<article><h1>CrimeRadar is using machine learning to predict crime in Rio</h1><p>It may sound like something from the Minority Report, but this app can predict where crimes will take place. The software, called CrimeRadar, has just launched its prototype in the Olympic host city of Rio de Janeiro. The app uses advanced machine learning to predict crime rates in the city's neighbourhoods at different times of the day and night.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fae71ede267bd9af2751ba45a09c9b97/noop?input=http%3A%2F%2Fwi-images.condecdn.net%2Fimage%2FOMb8bMJAnDV%2Fcrop%2F1020"></article>]]></description>
+            <link>http://www.wired.co.uk/article/crimeradar-rio-app-predict-crime</link>
+            <guid isPermaLink="false">67aa03bb-6af0-4dbe-bfd2-3b5ac759e73b</guid>
+            <pubDate>Fri, 19 Aug 2016 15:34:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Justice Department says it will end use of private prisons: Report]]></title>
             <description><![CDATA[<article><h1>Justice Department says it will end use of private prisons: Report</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e294b4af265a094d6f772f3da65135ae1c8798f4.gif"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://mobile.nytimes.com/aponline/2016/08/13/us/ap-us-officer-involved-shooting-milwaukee.html</link>
             <guid isPermaLink="false">cc3e990a-9a3a-42d5-9618-bffe4d4a3e2b</guid>
             <pubDate>Mon, 15 Aug 2016 15:39:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Most Bottled Water is FILLED With Fluoride, Here's a Complete List of Brands to Avoid]]></title>
-            <description><![CDATA[<article><h1>Most Bottled Water is FILLED With Fluoride, Here's a Complete List of Brands to Avoid</h1><p>"Fluoride seems to fit in with lead, mercury, and other poisons that cause chemical brain drain,"Grandjean says. "The effect of each toxicant may seem small, but the combined damage on a population scale can be serious, especially because the brain power of the next generation is crucial to all of us."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7f2cdd001d5c17682d5b3357e60706b5/noop.jpg?input=http%3A%2F%2Fwww.healty365days.com%2Fwp-content%2Fuploads%2F2016%2F05%2FMost-Bottled-Water-is-FILLED-With-Fluoride-Here%25E2%2580%2599s-a-Complete-List-of-Brands-to-Avoid-700x525.jpg"></article>]]></description>
-            <link>http://www.healty365days.com/?p=1047</link>
-            <guid isPermaLink="false">3300b4d8-2caf-40d7-842e-8165018ceb57</guid>
-            <pubDate>Mon, 15 Aug 2016 15:39:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
